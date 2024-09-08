@@ -52,8 +52,8 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          With a passion for developing modern React web apps for commercial
-          businesses.
+          ASP.NET Core, Entity Framework Core ve React.js konusunda yetkin Full Stack Developer. Backend  ve frontend  geliştirme deneyimi.
+          SOLID prensipleri, Clean Code ve MSSQL, MongoDB gibi veritabanlarında hakimiyet.
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>

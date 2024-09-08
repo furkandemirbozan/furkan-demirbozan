@@ -50,14 +50,12 @@ function Skills() {
             <h3>Software Development Principles</h3>
             <hr />
             <div className={styles.skillList}>
-                <SkillList src={checkMarkIcon} skill="Domain Driven Design" />
                 <SkillList src={checkMarkIcon} skill="SOLID Principles" />
                 <SkillList src={checkMarkIcon} skill="Repository Pattern" />
                 <SkillList src={checkMarkIcon} skill="Unit of Work" />
                 <SkillList src={checkMarkIcon} skill="N-Tier Architecture" />
                 <SkillList src={checkMarkIcon} skill="Clean Code" />
                 <SkillList src={checkMarkIcon} skill="IOC Container" />
-                <SkillList src={checkMarkIcon} skill="Design Patterns" />
             </div>
             <br />
             <br />
