@@ -7,13 +7,23 @@ import Skills from './sections/Skills/Skills'
 function App() {
 
   return (
-    <>
-      <Hero />
-      <Project />
-      <Skills />
-      {/* <Contact /> */}
-      <Footer />
-    </>
+    <div className="grid-container">
+      <div className="grid-item">
+        <Hero />
+      </div>
+      <div className="grid-item">
+        <Project />
+      </div>
+      <div className="grid-item">
+        <Skills />
+      </div>
+      {/* <div className="grid-item">
+        <Contact />
+      </div> */}
+      <div className="grid-item">
+        <Footer />
+      </div>
+    </div>
   )
 }
 

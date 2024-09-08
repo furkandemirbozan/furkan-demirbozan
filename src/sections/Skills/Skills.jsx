@@ -23,6 +23,10 @@ function Skills() {
                 <SkillList src={checkMarkIcon} skill="Express.js" />
                 <SkillList src={checkMarkIcon} skill="LINQ" />
                 <SkillList src={checkMarkIcon} skill="SignalR" />
+                <SkillList src={checkMarkIcon} skill="JWT" />
+                <SkillList src={checkMarkIcon} skill="Redis" />
+                <SkillList src={checkMarkIcon} skill="RabbitMQ" />
+                <SkillList src={checkMarkIcon} skill="Microservice Architecture" />
             </div>
             <br />
             <br />
@@ -86,6 +90,7 @@ function Skills() {
                 <SkillList src={checkMarkIcon} skill="JavaScript" />
                 <SkillList src={checkMarkIcon} skill="React.js" />
                 <SkillList src={checkMarkIcon} skill="Next.js" />
+                <SkillList src={checkMarkIcon} skill="React Native" />
                 <SkillList src={checkMarkIcon} skill="HTML" />
                 <SkillList src={checkMarkIcon} skill="CSS" />
                 <SkillList src={checkMarkIcon} skill="TailwindCSS" />
