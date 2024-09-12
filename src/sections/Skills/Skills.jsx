@@ -20,10 +20,9 @@ function Skills() {
                 <SkillList src={checkMarkIcon} skill="RestAPI" />
                 <SkillList src={checkMarkIcon} skill="Node.js" />
                 <SkillList src={checkMarkIcon} skill="Web APIs" />
-                <SkillList src={checkMarkIcon} skill="Express.js" />
                 <SkillList src={checkMarkIcon} skill="LINQ" />
                 <SkillList src={checkMarkIcon} skill="SignalR" />
-                <SkillList src={checkMarkIcon} skill="JWT" />
+                <SkillList src={checkMarkIcon} skill="JWT-Token" />
                 <SkillList src={checkMarkIcon} skill="Redis" />
                 <SkillList src={checkMarkIcon} skill="RabbitMQ" />
                 <SkillList src={checkMarkIcon} skill="Microservice Architecture" />
@@ -41,7 +40,6 @@ function Skills() {
                 <SkillList src={checkMarkIcon} skill="Postman" />
                 <SkillList src={checkMarkIcon} skill="GitHub" />
                 <SkillList src={checkMarkIcon} skill="MS SQL Server Management Studio" />
-                <SkillList src={checkMarkIcon} skill="Scrum" />
                 <SkillList src={checkMarkIcon} skill="Git" />
                 <SkillList src={checkMarkIcon} skill="Visual Studio Code" />
             </div>
